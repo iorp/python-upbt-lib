@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: upbt
+Version: 1.0.0
+Summary: Universal Package Building Tool
+Author: Iorp
+Requires-Dist: cython
+Requires-Dist: setuptools
+Requires-Dist: pyinstaller
+Requires-Dist: wheel

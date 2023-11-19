@@ -114,7 +114,8 @@ Feel free to customize the README to better fit your project's structure and doc
 # Development notes
 
 # TODO 
-- Relativize running options names ( exe, pyd, pyc) 
+- Relativize running options names ( exe, pyd, pyc), by selecting the class dynamically.
+- Relativize base path by adding a parameter. 
 
 
 # ReBuild UPBT and Install:

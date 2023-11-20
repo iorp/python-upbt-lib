@@ -1,9 +1,0 @@
-README.md
-setup.py
-tests/test_builder.py
-upbt/__init__.py
-upbt/builder.py
-upbt.egg-info/PKG-INFO
-upbt.egg-info/SOURCES.txt
-upbt.egg-info/dependency_links.txt
-upbt.egg-info/top_level.txt

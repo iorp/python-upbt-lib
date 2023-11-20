@@ -115,7 +115,6 @@ Feel free to customize the README to better fit your project's structure and doc
 
 # TODO 
 - Relativize running options names ( exe, pyd, pyc) 
-- no build if no config
 
 
 # ReBuild UPBT and Install:
